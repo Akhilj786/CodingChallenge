@@ -1,4 +1,4 @@
-package ProgrammingElements;
+package ProgrammingElements.Chapter5;
 
 public class solution5_5 {
 
