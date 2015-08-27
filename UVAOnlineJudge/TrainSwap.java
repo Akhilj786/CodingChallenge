@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class TrainSwap {
 
 	public static void main(String args[]) {
+		@SuppressWarnings("resource")
 		Scanner s = new Scanner(System.in);
 		int totalTest = s.nextInt();
 		int count[] = new int[totalTest];

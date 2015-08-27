@@ -15,6 +15,7 @@ public class Bicoloring {
 		// TODO Auto-generated method stub
 		int vertices = -1;
 		int edges = 0;
+		@SuppressWarnings("resource")
 		Scanner s = new Scanner(System.in);
 		while ((vertices = s.nextInt()) != 0) {
 			int graph[][] = new int[vertices][vertices];
