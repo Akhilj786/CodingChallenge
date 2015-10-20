@@ -31,6 +31,7 @@ public class Cut {
 			System.out.println(getMaximum(array, maxCut));
 
 		}
+		br.close();
 
 	}
 

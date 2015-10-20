@@ -38,7 +38,7 @@ public class SkyLine {
 				current = skyline[i];
 			}
 		}
-
+		s.close();
 	}
 
 }
