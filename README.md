@@ -1,3 +1,2 @@
 # CodingChallenge
-This repository will provide solution to some books-exercises and online exercises.
-
+This repository will provide solution to most frequently books-exercises and online exercises.
