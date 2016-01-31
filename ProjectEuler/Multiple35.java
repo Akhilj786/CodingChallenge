@@ -1,3 +1,4 @@
+package ProjectEuler;
 import java.io.*;
 import java.util.*;
 public class Multiple35{
