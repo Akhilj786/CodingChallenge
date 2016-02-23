@@ -3,7 +3,7 @@ package LeetCode;
 public class TrapRain {
 
 	public static void main(String args[]) {
-		int array[] = {2,1,1};
+		int array[] = {0,1,0,2,1,0,1,3,2,1,2,1};
 		System.out.println(trapRainWater(array));
 
 	}
